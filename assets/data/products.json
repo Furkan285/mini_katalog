@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro (2nd Gen)",
+    "tagline": "Adaptive Audio",
+    "price": 249,
+    "category": "Audio",
+    "image": "assets/images/airpods_pro.png",
+    "description": "AirPods Pro feature up to 2x more Active Noise Cancellation, Adaptive Transparency, and Personalized Spatial Audio with dynamic head tracking for immersive sound.",
+    "specifications": {
+      "SIZE": "1.22 inches",
+      "AUDIO": "Spatial Audio",
+      "BATTERY": "6 hrs listening"
+    }
+  },
+  {
+    "id": 2,
+    "name": "AirPods Max",
+    "tagline": "Sound Focused",
+    "price": 549,
+    "category": "Audio",
+    "image": "assets/images/airpods_max.png",
+    "description": "AirPods Max combine high-fidelity audio with industry-leading Active Noise Cancellation to deliver an unparalleled listening experience with custom-built drivers.",
+    "specifications": {
+      "SIZE": "7.37 inches",
+      "AUDIO": "Hi-Fi Driver",
+      "COLORS": "5 colors"
+    }
+  },
+  {
+    "id": 3,
+    "name": "HomePod",
+    "tagline": "Profound sound",
+    "price": 299,
+    "category": "Smart Home",
+    "image": "assets/images/homepod.png",
+    "description": "HomePod is a powerhouse of a speaker. Acoustic engineering and computational audio work together to deliver groundbreaking, room-filling sound.",
+    "specifications": {
+      "SIZE": "6.6 inches",
+      "AUDIO": "360-degree",
+      "COLORS": "2 colors"
+    }
+  },
+  {
+    "id": 4,
+    "name": "HomePod Mini",
+    "tagline": "Color pop",
+    "price": 99,
+    "category": "Smart Home",
+    "image": "assets/images/homepod_mini.png",
+    "description": "The HomePod mini is jam-packed with innovation, delivering unexpectedly big sound for a speaker of its size. At just 3.3 inches tall, it takes up almost no space but fills the entire room with rich 360-degree audio. It works effortlessly with your iPhone—hand off music just by bringing your phone close to the speaker. You can place multiple HomePod mini speakers around the house for a connected sound system.",
+    "specifications": {
+      "SIZE": "3.3 inches",
+      "AUDIO": "360-degree",
+      "COLORS": "5 colors"
+    }
+  },
+  {
+    "id": 5,
+    "name": "iPhone 15 Pro",
+    "tagline": "Titanium. So strong. So light. So Pro.",
+    "price": 999,
+    "category": "Phones",
+    "image": "assets/images/iphone_15_pro.png",
+    "description": "Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever.",
+    "specifications": {
+      "DISPLAY": "6.1-inch OLED",
+      "CHIP": "A17 Pro",
+      "COLORS": "4 colors"
+    }
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro 14\"",
+    "tagline": "Mind-blowing. Head-turning.",
+    "price": 1599,
+    "category": "Computers",
+    "image": "assets/images/macbook_pro.png",
+    "description": "MacBook Pro blasts forward with the M3 chip, extreme battery life, and a stunning Liquid Retina XDR display for demanding workflows.",
+    "specifications": {
+      "DISPLAY": "14.2-inch XDR",
+      "CHIP": "Apple M3",
+      "BATTERY": "Up to 22 hrs"
+    }
+  },
+  {
+    "id": 7,
+    "name": "iPad Air",
+    "tagline": "Light. Bright. Full of might.",
+    "price": 599,
+    "category": "Tablets",
+    "image": "assets/images/ipad_air.png",
+    "description": "iPad Air features a 10.9-inch Liquid Retina display, supercharged M1 chip, ultra-fast wireless, and support for Apple Pencil and Magic Keyboard.",
+    "specifications": {
+      "DISPLAY": "10.9-inch",
+      "CHIP": "Apple M1",
+      "COLORS": "5 colors"
+    }
+  }
+]
